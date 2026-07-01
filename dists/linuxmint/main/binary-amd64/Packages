@@ -1,5 +1,5 @@
 Package: reloj-control-server
-Version: 0.1.0-3
+Version: 0.1.0-4
 Section: web
 Priority: optional
 Architecture: all
@@ -8,8 +8,8 @@ Depends: python3, python3-venv, python3-pip, adduser, systemd
 Description: Servidor standalone para Reloj Control
  Backend FastAPI standalone para control de asistencia, API v1,
  panel admin web, SQLite local por defecto y servicio systemd.
-Filename: pool/main/r/reloj-control-server/reloj-control-server_0.1.0-3_all.deb
-Size: 32570
-MD5sum: b180d36b51efb5c199110fcf433ac69e
-SHA1: 3ddd0c89cfba1677737eb2a06855c0eb1263d7ff
-SHA256: 5d53887e5e3376728f7f5eafe3fdad842b95f9d629bd6d28b019e49f5760996b
+Filename: pool/main/r/reloj-control-server/reloj-control-server_0.1.0-4_all.deb
+Size: 32558
+MD5sum: fbcdad388f167b26996937ab38e3b730
+SHA1: ec95db09239ea6bf4aeaa4278b6d3ecb21079bfc
+SHA256: 79ff295471b3b1a4ae446a7586901371b6a7bba0c73aea96f9f1db6810c3c15c
