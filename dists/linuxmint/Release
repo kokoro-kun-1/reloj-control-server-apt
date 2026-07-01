@@ -2,17 +2,17 @@ Origin: Reloj Control
 Label: Reloj Control
 Suite: linuxmint
 Codename: linuxmint
-Date: Wed, 01 Jul 2026 03:34:34 +0000
+Date: Wed, 01 Jul 2026 03:48:32 +0000
 Architectures: amd64 all
 Components: main
 Description: Reloj Control APT repository
 MD5Sum:
- 813040bcd4d99948f3312a73253bdfe7 641 main/binary-amd64/Packages
- 470914326509192476acb49289d5b9cb 451 main/binary-amd64/Packages.gz
- 813040bcd4d99948f3312a73253bdfe7 641 main/binary-all/Packages
- 470914326509192476acb49289d5b9cb 451 main/binary-all/Packages.gz
+ 6332f236ad08190639016c8a25d089c7 641 main/binary-amd64/Packages
+ 8b3840e62df5ea7828d4c6aba6f546bf 452 main/binary-amd64/Packages.gz
+ 6332f236ad08190639016c8a25d089c7 641 main/binary-all/Packages
+ 8b3840e62df5ea7828d4c6aba6f546bf 452 main/binary-all/Packages.gz
 SHA256:
- 86b5d0962d4094dbc41289dbf2afcc9626d51916183c6e7d1afc6a8f0d9479a5 641 main/binary-amd64/Packages
- 15e5be1fadeb8a05af317fac4ad0fb4d9b0308214b2b5537ca75c3dc9588aea9 451 main/binary-amd64/Packages.gz
- 86b5d0962d4094dbc41289dbf2afcc9626d51916183c6e7d1afc6a8f0d9479a5 641 main/binary-all/Packages
- 15e5be1fadeb8a05af317fac4ad0fb4d9b0308214b2b5537ca75c3dc9588aea9 451 main/binary-all/Packages.gz
+ 1e7d159bc0aed0215fde312755658f847d28644e9c9f8744926bb515aa94458b 641 main/binary-amd64/Packages
+ 772e70f058f75b185a7da503b7b912e93051c8c7518741596268bc36fd460024 452 main/binary-amd64/Packages.gz
+ 1e7d159bc0aed0215fde312755658f847d28644e9c9f8744926bb515aa94458b 641 main/binary-all/Packages
+ 772e70f058f75b185a7da503b7b912e93051c8c7518741596268bc36fd460024 452 main/binary-all/Packages.gz
