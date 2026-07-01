@@ -2,13 +2,17 @@ Origin: Reloj Control
 Label: Reloj Control
 Suite: stable
 Codename: stable
-Date: Wed, 01 Jul 2026 02:31:43 +0000
-Architectures: all
+Date: Wed, 01 Jul 2026 02:36:46 +0000
+Architectures: amd64 all
 Components: main
 Description: Reloj Control APT repository
 MD5Sum:
- 112d2e7f239926a668915482ee8471f3 641 dists/stable/main/binary-all/Packages
- 103245b6a167c4b04038a3739d97e0e5 451 dists/stable/main/binary-all/Packages.gz
+ b168cd144215faa7366ee2e8d6b23782 641 dists/stable/main/binary-amd64/Packages
+ d890ad126021a4309961736baa50ed3d 450 dists/stable/main/binary-amd64/Packages.gz
+ b168cd144215faa7366ee2e8d6b23782 641 dists/stable/main/binary-all/Packages
+ d890ad126021a4309961736baa50ed3d 450 dists/stable/main/binary-all/Packages.gz
 SHA256:
- 4e16ff05fb7c8c5f57a91c399160b46a9588ffc5ae67cd5bbc361ca78fb18763 641 dists/stable/main/binary-all/Packages
- 145a0048944ea6efb8835f50d4ad552c17e3c9a6a41a88fcd79f2ec20e75a069 451 dists/stable/main/binary-all/Packages.gz
+ 93d19af7d4c2a13657398478226ceee3dc01e048f3fb336aa01c8234392dbda4 641 dists/stable/main/binary-amd64/Packages
+ 9d92f8100184e30ca6dae76ef72e47fdf24ad50a36cff11e3128f738e6ead945 450 dists/stable/main/binary-amd64/Packages.gz
+ 93d19af7d4c2a13657398478226ceee3dc01e048f3fb336aa01c8234392dbda4 641 dists/stable/main/binary-all/Packages
+ 9d92f8100184e30ca6dae76ef72e47fdf24ad50a36cff11e3128f738e6ead945 450 dists/stable/main/binary-all/Packages.gz
